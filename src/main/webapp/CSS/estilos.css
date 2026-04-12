@@ -1,0 +1,18 @@
+@charset "UTF-8";
+@charset "UTF-8";
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+
+.header-verde {background-color: #00695c; color: white; text-align: center; padding: 20px; margin: 20px auto; 
+    width: 60%; font-size: 1.2rem;}
+
+.tabla-form {width: 60%; margin: auto; border-collapse: collapse; background-color: white;}
+.tabla-form td {border: 1px solid #ccc; padding: 18px; font-size: 25px;}
+.label-lila {background-color: #e1d5f7; font-weight: bold; width: 40%;}
+.input-celda input { width: 100%; border: none; outline: none; padding: 8px; font-size: 25px;}
+
+.btn-submit {background-color: #00695c; color: white; padding: 25px 60px; border: none; cursor: pointer; display: block; margin: 20px auto; border-radius: 4px; text-decoration: none;
+    text-align: center; font-size: 25px; font-weight: bold;
+}
+
+.flecha-retorno { font-size: 30px; color: black; text-decoration: none; margin: 20px; display: inline-block; }
